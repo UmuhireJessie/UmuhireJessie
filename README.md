@@ -1,5 +1,6 @@
 👋 Hi, I’m Jessie.
-I am a computer scientist who is fascinated by effects of computer alogarithms on health of people.
+I am a computer scientist who is fascinated by what computer have in store for people's health.
+
 
 ✨ Truly it is interesting to find more about it and establish a positive impact to improve the 
 efficiency of the services as well as the lives of many. 
